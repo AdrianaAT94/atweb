@@ -1,0 +1,701 @@
+# Translation of Stable (latest release) in Galician
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-12 13:09:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#. Description of the plugin/theme
+msgid "Adds multilingual capability to WordPress"
+msgstr "Engade funcionalidades multilingüe a WordPress"
+
+#: lingotek/lingotek.php:85
+msgid "Activated"
+msgstr "Activado"
+
+#: lingotek/lingotek.php:85
+msgid "Activate"
+msgstr "Activar"
+
+#: lingotek/lingotek.php:90
+msgid "Request Translation"
+msgstr "Solicitar tradución"
+
+#: lingotek/lingotek.php:96
+msgid "Request Services"
+msgstr "Solicitar servizos"
+
+#: lingotek/lingotek.php:103
+msgid "Polylang is now fully integrated with Lingotek, a professional translation management system!"
+msgstr "Agora Polylang está completamente integrado con Lingotek, un sistema profesional de xestión de tradución!"
+
+#: lingotek/lingotek.php:106
+msgid "Automatically Translate My Site"
+msgstr "Traducir automaticamente o meu sitio"
+
+#: lingotek/lingotek.php:107
+msgid "Polylang is now fully integrated with Lingotek!"
+msgstr "Agora Polylang está completamente integrado con Lingotek!"
+
+#: lingotek/lingotek.php:110
+msgid "Machine translation is an excellent option if you're on a tight budget, looking for near-instant results, and are okay with less-than-perfect quality."
+msgstr "A tradución automática é unha excelente escolla se tes un presuposto axustado, na busca de resultados inmediatos e se che abonda cunha calidade algo imperfecta."
+
+#: lingotek/lingotek.php:109 lingotek/lingotek.php:120
+msgid "Access free machine translation for your site for up to 100,000 characters."
+msgstr "Acceda a unha tradución automática para o seu sitio de balde ata os 100.000 caracteres."
+
+#: lingotek/lingotek.php:117
+msgid "Translation Management System"
+msgstr "Sistema de xestión de tradución"
+
+#: lingotek/lingotek.php:118
+msgid "Do you need to connect to a professional translation management system?"
+msgstr "Necesita conectarse a un sistema de xestión de tradución profesional?"
+
+#: lingotek/lingotek.php:121
+msgid "Access an online translator workbench."
+msgstr "Acceda a un tradutor en liña no banco de traballo."
+
+#: lingotek/lingotek.php:122
+msgid "Have linguists compare side-by-side versions of original and translated text."
+msgstr "Teña lingüistas a comparar en paralelo as versións orixinal e traducida do texto."
+
+#: lingotek/lingotek.php:123
+msgid "Save and re-use previously translated material (leverage translation memory (TM))."
+msgstr "Garde e volva usar material anteriormente traducido (coa memoria de tradución (TM))."
+
+#: lingotek/lingotek.php:130
+msgid "Professionally Translate My Site"
+msgstr "Traducir profesionalmente o meu sitio"
+
+#: lingotek/lingotek.php:131
+msgid "Do you need to professionally translate your site?"
+msgstr "Necesita unha tradución profesional do seu sitio?"
+
+#: lingotek/lingotek.php:133
+msgid "Start the process of getting a professional translation bid."
+msgstr "Comece o proceso para obter unha oferta de tradución profesional."
+
+#: lingotek/lingotek.php:134
+msgid "Activate account so Lingotek can get an accurate count of how many words you have on your site and which languages you wish to translate into."
+msgstr "Active a conta para que Lingotek poida facer un reconto exacto de cantas palabras ten no seu sitio e a cantos idiomas pode traducilo."
+
+#: lingotek/lingotek.php:135
+msgid "Once activated click on the request translation bid and a certified translation project manager will contact you to give a no obligations translation bid."
+msgstr "Unha vez activado, prema na petición de oferta de tradución e un director de proxectos de tradución comunicarase con vostede para facerlle unha oferta, sen obrigacións."
+
+#: lingotek/lingotek.php:142
+msgid "Need Extra Services?"
+msgstr "Necesita servizos extra?"
+
+#: lingotek/lingotek.php:143
+msgid "Do you need help translating your site?"
+msgstr "Necesita axuda coa tradución do seu sitio?"
+
+#: lingotek/lingotek.php:145
+msgid "Start the process of getting extra services."
+msgstr "Comece o proceso para obter servizos extra."
+
+#: lingotek/lingotek.php:146
+msgid "Do you need someone to run your localization project?"
+msgstr "Necesita de alguén para botar a andar o seu proxecto de localización?"
+
+#: lingotek/lingotek.php:147
+msgid "Do you need customized workflows?"
+msgstr "Necesita fluxos de traballo personalizados?"
+
+#: lingotek/lingotek.php:148
+msgid "Do you have existing Translation Memories you would like to use?"
+msgstr "Ten memorias de tradución que lle gustaría usar?"
+
+#: lingotek/lingotek.php:149
+msgid "Do you need help creating glossaries and terminologies?"
+msgstr "Necesita axuda para crear glosarios e terminoloxía?"
+
+#: lingotek/lingotek.php:254
+msgid "Learn more..."
+msgstr "Aprenda máis..."
+
+#. Plugin Name of the plugin/theme
+msgid "Polylang"
+msgstr "Polylang"
+
+#. Plugin URI of the plugin/theme
+msgid "http://polylang.wordpress.com/"
+msgstr "http://polylang.wordpress.com/"
+
+#. Author of the plugin/theme
+msgid "Frédéric Demarle"
+msgstr "Frédéric Demarle"
+
+#. Author URI of the plugin/theme
+msgid "http://polylang.wordpress.com"
+msgstr "http://polylang.wordpress.com"
+
+#: admin/view-about.php:9
+msgid "You will also find useful information in the %ssupport forum%s. However don't forget to make a search before posting a new topic."
+msgstr "Atoparás información útil no %sforo de axuda%s. Porén, non esqueza facer unha busca antes de crear un tema novo."
+
+#: admin/view-about.php:16
+msgid "Polylang is free of charge and is released under the same license as WordPress, the %sGPL%s."
+msgstr "Polylang está libre de custes e liberado baixo a mesma licenza que WordPress, a %sGPL%s."
+
+#: admin/view-about.php:22
+msgid "If you wonder how you can help the project, just %sread this%s."
+msgstr "Se se pregunta como axudar co proxecto, só %slea isto%s."
+
+#: admin/view-about.php:27
+msgid "Finally if you like this plugin or if it helps your business, donations to the author are greatly appreciated."
+msgstr "Por último, se che gusta este complemento ou che axuda no negocio, as doazóns ao autor son moi apreciadas."
+
+#: admin/admin-filters-post.php:133 admin/admin.php:96 admin/settings.php:70
+#: admin/settings.php:97 include/model.php:590
+msgid "Languages"
+msgstr "Idiomas"
+
+#: include/switcher.php:22
+msgid "Displays language names"
+msgstr "Amosar nomes de idiomas"
+
+#: include/switcher.php:23
+msgid "Displays flags"
+msgstr "Amosar bandeiras"
+
+#: include/switcher.php:24
+msgid "Forces link to front page"
+msgstr "Forzar ligazón á páxina principal"
+
+#: include/switcher.php:25
+msgid "Hides the current language"
+msgstr "Agochar o idioma actual"
+
+#: include/switcher.php:30
+msgid "Displays as dropdown"
+msgstr "Amosar como despregable"
+
+#: admin/admin.php:321
+msgid "Filters content by language"
+msgstr "Filtrar contido por idioma"
+
+#: admin/admin.php:312
+msgid "Show all languages"
+msgstr "Amosar todos os idiomas"
+
+#: admin/admin-filters-columns.php:141 admin/admin-filters-columns.php:236
+msgid "Add new translation"
+msgstr "Engadir nova tradución"
+
+#: admin/admin-filters-columns.php:174 admin/admin-filters-media.php:55
+#: admin/admin-filters-post.php:159 admin/admin-filters-term.php:85
+#: admin/admin-filters-term.php:136 include/model.php:591
+msgid "Language"
+msgstr "Idioma"
+
+#: admin/table-string.php:112 admin/view-translations-media.php:5
+#: admin/view-translations-post.php:5 admin/view-translations-term.php:6
+#: admin/view-translations-term.php:11
+msgid "Translations"
+msgstr "Traducións"
+
+#: admin/admin-filters-term.php:92 admin/admin-filters-term.php:144
+msgid "Sets the language"
+msgstr "Configurar o idioma"
+
+#: admin/admin-filters.php:52
+msgid "The widget is displayed for:"
+msgstr "O trebello amósase para:"
+
+#: admin/admin-filters.php:55 include/model.php:592
+msgid "All languages"
+msgstr "Todos os idiomas"
+
+#: admin/admin-filters.php:123
+msgid "Admin language"
+msgstr "Administrar idioma"
+
+#: admin/admin-filters.php:126
+msgid "WordPress default"
+msgstr "Predefinido WordPress"
+
+#: admin/admin.php:204 admin/settings.php:102
+msgid "Settings"
+msgstr "Axustes"
+
+#: admin/admin-filters.php:160 admin/admin-filters.php:169
+msgid "Upgrading language files&#8230;"
+msgstr "Actualizando ficheiros de idioma&#8230;"
+
+#: admin/settings.php:62
+msgid "About Polylang"
+msgstr "Sobre Polylang"
+
+#: admin/settings.php:78
+msgid "Strings translations"
+msgstr "Cadeas traducións"
+
+#: admin/settings.php:101
+msgid "Strings translation"
+msgstr "Cadeas tradución"
+
+#: admin/admin-model.php:241
+msgid "Enter a valid WordPress locale"
+msgstr "Insire unha configuración rexional de idioma de WordPess válido"
+
+#: admin/admin-model.php:249
+msgid "The language code must be unique"
+msgstr "O código de idioma debe ser único"
+
+#: admin/admin-model.php:254
+msgid "The language must have a name"
+msgstr "O idioma debe ter un nome"
+
+#: admin/admin.php:419 admin/settings.php:183
+msgid "The language was created, but the WordPress language file was not downloaded. Please install it manually."
+msgstr "O idioma creouse, pero o ficheiro de idioma do WordPress non se descargou. Instáleo manualmente."
+
+#: admin/admin-strings.php:59
+msgid "Widget title"
+msgstr "Título do trebello"
+
+#: admin/settings.php:321
+msgid "Taxonomies"
+msgstr "Taxonomías"
+
+#: admin/settings.php:322
+msgid "Custom fields"
+msgstr "Campos personalizados"
+
+#: admin/settings.php:323
+msgid "Comment status"
+msgstr "Estado do comentario"
+
+#: admin/settings.php:324
+msgid "Ping status"
+msgstr "Estado do ping"
+
+#: admin/settings.php:325
+msgid "Sticky posts"
+msgstr "Artigos fixos"
+
+#: admin/settings.php:326
+msgid "Published date"
+msgstr "Data de publicación"
+
+#: admin/settings.php:327
+msgid "Post format"
+msgstr "Formato de artigo"
+
+#: admin/settings.php:328
+msgid "Page parent"
+msgstr "Páxina primaria"
+
+#: admin/settings.php:329
+msgid "Page template"
+msgstr "Páxina modelo"
+
+#: admin/settings.php:330
+msgid "Page order"
+msgstr "Orde de páxina"
+
+#: admin/settings.php:331
+msgid "Featured image"
+msgstr "Imaxe destacada"
+
+#: admin/view-tab-lang.php:21
+msgid "Edit language"
+msgstr "Editar idioma"
+
+#: admin/view-tab-lang.php:21 admin/view-tab-lang.php:103
+msgid "Add new language"
+msgstr "Engadir novo idioma"
+
+#: admin/view-tab-lang.php:37
+msgid "Choose a language"
+msgstr "Escolla un idioma"
+
+#: admin/view-tab-lang.php:51
+msgid "You can choose a language in the list or directly edit it below."
+msgstr "Podes escoller un idioma na lista ou editalo directamente abaixo."
+
+#: admin/table-languages.php:85 admin/view-tab-lang.php:55
+msgid "Full name"
+msgstr "Nome completo"
+
+#: admin/view-tab-lang.php:57
+msgid "The name is how it is displayed on your site (for example: English)."
+msgstr "O nome como se amosará no teu sitio (por exemplo: Inglés)."
+
+#: admin/table-languages.php:86 admin/view-tab-lang.php:61
+msgid "Locale"
+msgstr "Configuración rexional"
+
+#: admin/view-tab-lang.php:66
+msgid "WordPress Locale for the language (for example: en_US). You will need to install the .mo file for this language."
+msgstr "Configuración rexional do idioma WordPress (por exemplo: en_US). Necesitarás instalar o ficheiro .mo deste idioma."
+
+#: admin/view-tab-lang.php:70
+msgid "Language code"
+msgstr "Código de idioma"
+
+#: admin/view-tab-lang.php:76
+msgid "Text direction"
+msgstr "Orientación do texto"
+
+#: admin/view-tab-lang.php:80
+msgid "left to right"
+msgstr "esquerda a dereita"
+
+#: admin/view-tab-lang.php:85
+msgid "right to left"
+msgstr "dereita a esquerda"
+
+#: admin/view-tab-lang.php:87
+msgid "Choose the text direction for the language"
+msgstr "Escolla a orientación do texto para o idioma"
+
+#: admin/table-languages.php:88 admin/view-tab-lang.php:91
+msgid "Order"
+msgstr "Orde"
+
+#: admin/view-tab-lang.php:93
+msgid "Position of the language in the language switcher"
+msgstr "Posición do idioma no conmutador de idioma"
+
+#: admin/admin-nav-menu.php:55 admin/admin-nav-menu.php:76
+#: admin/admin-nav-menu.php:79 admin/admin-nav-menu.php:110
+#: admin/admin-nav-menu.php:172 install/upgrade.php:304
+msgid "Language switcher"
+msgstr "Conmutador de idioma"
+
+#: admin/view-tab-strings.php:8
+msgid "Search translations"
+msgstr "Buscar traducións"
+
+#: admin/view-tab-strings.php:11
+msgid "Clean strings translation database"
+msgstr "Limpar base de datos das cadeas de tradución"
+
+#: admin/view-tab-settings.php:14
+msgid "Default language"
+msgstr "Idioma predefinido"
+
+#: admin/view-tab-settings.php:29
+msgid "There are posts, pages, categories or tags without language set. Do you want to set them all to default language ?"
+msgstr "Hai artigos, páxinas, categorías ou etiquetas sen idioma definido. Desexa configuralos co idioma predefinido?"
+
+#: admin/view-tab-settings.php:148
+msgid "Detect browser language"
+msgstr "Detectar idioma do navegador"
+
+#: admin/view-tab-settings.php:154
+msgid "When the front page is visited, set the language according to the browser preference"
+msgstr "Cando se visite a páxina principal, configure o idioma acorde ás preferencias do navegador"
+
+#: admin/view-tab-settings.php:37
+msgid "URL modifications"
+msgstr "Modificacións URL"
+
+#: admin/view-tab-settings.php:92
+msgid "Hide URL language information for default language"
+msgstr "Agochar información URL de idioma para o predefinido"
+
+#: admin/view-tab-settings.php:161
+msgid "Media"
+msgstr "Multimedia"
+
+#: admin/view-tab-settings.php:167
+msgid "Activate languages and translations for media"
+msgstr "Activar idiomas e traducións para multimedia"
+
+#: admin/view-tab-settings.php:214
+msgid "Synchronization"
+msgstr "Sincronización"
+
+#: admin/view-tab-settings.php:175
+msgid "Custom post types"
+msgstr "Tipos de artigos personalizados"
+
+#: admin/view-tab-settings.php:188
+msgid "Activate languages and translations for custom post types."
+msgstr "Activar idiomas e traducións para tipos de artigo personalizado."
+
+#: admin/view-tab-settings.php:195
+msgid "Custom taxonomies"
+msgstr "Taxonomías personalizadas"
+
+#: admin/view-tab-settings.php:208
+msgid "Activate languages and translations for custom taxonomies."
+msgstr "Activar idiomas e traducións para taxonomías personalizadas."
+
+#: admin/admin-filters-post.php:474 admin/admin-filters-term.php:763
+#: admin/table-languages.php:65 admin/view-translations-media.php:21
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/table-languages.php:71 admin/table-string.php:168
+msgid "Delete"
+msgstr "Eliminar"
+
+#: admin/table-languages.php:87
+msgid "Code"
+msgstr "Código"
+
+#: admin/table-languages.php:89
+msgid "Flag"
+msgstr "Marca"
+
+#: admin/table-languages.php:90
+msgid "Posts"
+msgstr "Artigos"
+
+#: admin/table-string.php:110
+msgid "Name"
+msgstr "Nome"
+
+#: admin/table-string.php:109
+msgid "String"
+msgstr "Cadea"
+
+#: admin/view-translations-media.php:30 admin/view-translations-post.php:21
+#: admin/view-translations-term.php:30
+msgid "Add new"
+msgstr "Engadir novo"
+
+#: include/widget-languages.php:16
+msgid "Language Switcher"
+msgstr "Conmutador de idioma"
+
+#: include/widget-languages.php:16
+msgid "Displays a language switcher"
+msgstr "Amosar un conmutador de idioma"
+
+#: include/widget-languages.php:75
+msgid "Title:"
+msgstr "Título:"
+
+#: install/install.php:24
+msgid "You are using WordPress %s. Polylang requires at least WordPress %s."
+msgstr "Estás a usar WordPress %s. Polylang require polo menos WordPress %s."
+
+#: install/upgrade.php:76
+msgid "Polylang has been deactivated because you upgraded from a too old version."
+msgstr "Polylang desactivouse porque actualizaches dende un versión demasiado vella."
+
+#: install/upgrade.php:78
+msgid "Please upgrade first to %s before ugrading to %s."
+msgstr "Actualiza primeiro para %s antes de actualizares a %s."
+
+#: admin/table-string.php:111
+msgid "Group"
+msgstr "Grupo"
+
+#: admin/table-string.php:187
+msgid "View all groups"
+msgstr "Ver todos os grupos"
+
+#: admin/table-languages.php:70
+msgid "You are about to permanently delete this language. Are you sure?"
+msgstr "Vas eliminar permanentemente este idioma. Estás seguro?"
+
+#: admin/view-tab-strings.php:12
+msgid "Use this to remove unused strings from database, for example after a plugin has been uninstalled."
+msgstr "Usa isto para eliminar cadeas sen uso da base de datos, pro exemplo despois de desinstalarse un complemento."
+
+#: admin/view-tab-settings.php:225
+msgid "The synchronization options allow to maintain exact same values (or translations in the case of taxonomies and page parent) of meta content between the translations of a post or page."
+msgstr "As opcións de sincronización permiten manter os mesmo valores (ou traducións no caso de taxonomías e páxina primaria) do contido META entre as traducións dun artigo ou páxina."
+
+#: admin/admin-model.php:245
+msgid "The language code contains invalid characters"
+msgstr "O idioma contén caracteres non válidos"
+
+#: admin/view-tab-settings.php:43
+msgid "The language is set from content"
+msgstr "O idioma estableceuse desde o contido"
+
+#: admin/view-tab-settings.php:46
+msgid "Posts, pages, categories and tags urls are not modified."
+msgstr "Non se modificaron artigos, páxinas, categorías e etiquetas URL."
+
+#: admin/view-tab-settings.php:51
+msgid "The language is set from the directory name in pretty permalinks"
+msgstr "O idioma estableceuse desde o nome do cartafol nas ligazóns á man"
+
+#: admin/view-tab-settings.php:54 admin/view-tab-settings.php:63
+#: admin/view-tab-settings.php:109 admin/view-tab-settings.php:118
+msgid "Example:"
+msgstr "Exemplo:"
+
+#: admin/view-tab-settings.php:60
+msgid "The language is set from the subdomain name in pretty permalinks"
+msgstr "O idioma estableceuse desde o nome do subdominio nas ligazóns á man"
+
+#: admin/view-tab-settings.php:69
+msgid "The language is set from different domains"
+msgstr "O idioma estableceuse desde diferentes dominios"
+
+#: admin/view-tab-settings.php:106
+msgid "Remove /language/ in pretty permalinks"
+msgstr "Eliminar /idioma/ nas ligazóns permanentes á man"
+
+#: admin/view-tab-settings.php:115
+msgid "Keep /language/ in pretty permalinks"
+msgstr "Manter /idioma/ nas ligazóns permanentes á man"
+
+#: admin/view-tab-settings.php:130
+msgid "The front page url contains the language code instead of the page name or page id"
+msgstr "A URL da páxina de portada contén o código de idioma no lugar do nome ou a ID de páxina"
+
+#: admin/view-tab-settings.php:138
+msgid "Example: %s instead of %s"
+msgstr "Exemplo: %s no lugar de %s"
+
+#: admin/admin-model.php:38
+msgid "Impossible to add the language."
+msgstr "Imposible engadir o idioma."
+
+#: admin/admin-model.php:66
+msgid "Language added."
+msgstr "Idioma engadido."
+
+#: admin/admin-model.php:145
+msgid "Language deleted."
+msgstr "Idioma detectado."
+
+#: admin/admin-model.php:224
+msgid "Language updated."
+msgstr "Idioma actualizado."
+
+#: admin/settings.php:242
+msgid "Translations updated."
+msgstr "Traducións actualizadas."
+
+#: admin/view-tab-lang.php:72
+msgid "Language code - preferably 2-letters ISO 639-1  (for example: en)"
+msgstr "Código de idioma - preferible ISO 639-1 de 2 letras (por exemplo: en)"
+
+#: admin/admin-filters.php:203
+msgid "The chosen static front page must be translated in all languages."
+msgstr "A páxina estática de portada escollida débese traducir en todos os idiomas."
+
+#: admin/admin-strings.php:60
+msgid "Widget text"
+msgstr "Texto de trebello"
+
+#: admin/settings.php:52
+msgid "Recommended plugins"
+msgstr "Complementos recomendados"
+
+#: admin/view-tab-settings.php:51
+msgid "The language is set from the code in the URL"
+msgstr "O idioma estableceuse desde o código na URL"
+
+#: include/switcher.php:26
+msgid "Hides languages with no translation"
+msgstr "Agochar idiomas sen tradución"
+
+#: admin/admin-filters-columns.php:161
+msgid "&mdash; No Change &mdash;"
+msgstr "&mdash; Sen cambio &mdash;"
+
+#: admin/admin-filters-post.php:239
+msgid "(no parent)"
+msgstr "(sen primario)"
+
+#: admin/admin-filters-term.php:454
+msgid "None"
+msgstr "Nada"
+
+#: admin/admin-strings.php:54
+msgid "Site Title"
+msgstr "Título do sitio"
+
+#: admin/admin-strings.php:55
+msgid "Tagline"
+msgstr "Apostila"
+
+#: admin/admin-strings.php:56
+msgid "Date Format"
+msgstr "Formato de data"
+
+#: admin/admin-strings.php:57
+msgid "Time Format"
+msgstr "Formato de tempo"
+
+#: admin/settings.php:300
+msgid "Settings saved."
+msgstr "Axustes gardados."
+
+#: admin/table-string.php:200
+msgid "Filter"
+msgstr "Filtro"
+
+#: admin/view-about.php:3
+msgid "Polylang is provided with an extensive %sdocumentation%s (in English only). It includes information on how to set up your multilingual site and use it on a daily basis, a FAQ, as well as a documentation for programmers to adapt their plugins and themes."
+msgstr "Polylang provese cunha extensa %sdocumentación%s (só en inglés). Inclúe información de como configurar o teu sitio multilingüe e usalo a diario, preguntas habituais, así como documentación a programadores para adaptar complementos e temas."
+
+#: admin/view-tab-lang.php:103
+msgid "Update"
+msgstr "Actualizar"
+
+#: frontend/frontend-filters-search.php:80
+msgid "Search"
+msgstr "Procurar"
+
+#: include/model.php:757
+msgid "Uncategorized"
+msgstr "Sen categoría"
+
+#: include/plugins-compat.php:89
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr "Importar <strong>artigos, páxinas, comentarios, campos personalizados, categorías e etiquetas</strong> dun ficheiro de exportación WordPress."
+
+#. translators: Calendar caption: 1: month name, 2: 4-digit year
+#: include/widget-calendar.php:124
+msgctxt "calendar caption"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: include/widget-recent-comments.php:46
+msgid "Recent Comments"
+msgstr "Comentarios recentes"
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: include/widget-recent-comments.php:84
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s en %2$s"
+
+#: include/widget-recent-posts.php:46
+msgid "Recent Posts"
+msgstr "Artigos recentes"
+
+#: lingotek/lingotek.php:26
+msgid "You’ve just upgraded to the latest version of Polylang! Would you like to automatically translate your website for free?"
+msgstr "Acaba de actualizar á última versión de Polylang! Quere traducir automaticamente a súa páxina web de balde?"
+
+#: lingotek/lingotek.php:30
+msgid "Close"
+msgstr "Pechar"
+
+#: lingotek/lingotek.php:33
+msgid "Learn more"
+msgstr "Aprenda máis"
+
+#: lingotek/lingotek.php:39
+msgid "Click on Activate Lingotek to start translating."
+msgstr "Prema en Activar Lingotek para comezar a traducir."
+
+#: lingotek/lingotek.php:42
+msgid "Activate Lingotek"
+msgstr "Activar Lingotek"
+
+#: lingotek/lingotek.php:54
+msgid "Congratulations!"
+msgstr "Parabéns!"
